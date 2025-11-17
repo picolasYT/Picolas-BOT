@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 
 // ===== PREVENIR VARIABLES UNDEFINED =====
-let botname   = global.botname   || "Picolas-BOT"
+let botname   = global.botname   || "PicolasBOT"
 let vs        = global.vs        || "1.0.0"
 let libreria  = global.libreria  || "Baileys-MD"
 let textbot   = global.textbot   || "Bot Oficial"

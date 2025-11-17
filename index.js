@@ -33,16 +33,21 @@ const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 
 let { say } = cfonts
 console.log(chalk.magentaBright('\n❀ Iniciando...'))
-say('Yuki Suou', {
-font: 'simple',
-align: 'left',
-gradient: ['green', 'white']
+
+// Marca principal
+say('☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆', {
+  font: 'simple',
+  align: 'left',
+  gradient: ['green', 'white']
 })
-say('Made with love by Destroy', {
-font: 'console',
-align: 'center',
-colors: ['cyan', 'magenta', 'yellow']
+
+// Texto secundario / autor
+say('Picolas-BOT WhatsApp MD', {
+  font: 'console',
+  align: 'center',
+  colors: ['cyan', 'magenta', 'yellow']
 })
+
 protoType()
 serialize()
 

@@ -1,4 +1,4 @@
-<h1 align="center">✦ Yυƙι Sυσυ ✦</h1>
+<h1 align="center">☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆</h1>
 
 <img src= "https://files.catbox.moe/n7r3na.png">
 </p>
@@ -117,61 +117,6 @@ cd && cd YukiBot-MD && nano settings.js
 ```
 #### Para que no pierda su progreso en YukiBot, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 > *Estos comandos solo funcionan para TERMUX, REPLIT, LINUX*
-</details>
-
----
-### **`➮ Enlaces útiles`**
-
-<details>
-<summary><b> 🜸 Enlaces Oficiales </b></summary>
-
- * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029Vb64nWqLo4hb8cuxe23n)
-* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/HaKf6ezcwdbGzmH782eBal)
-* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/BgIcqDiiTEmL5ChFpq76y0?mode=ems_copy_t)
-</details>
-
-<details>
-<summary><b> ✰ Contáctos</b></summary>
-
-* WhatsApp: [`Aquí`](https://wa.me/522202410659)
-* Correo: [`Aquí`](thekingdestroy507@gmail.com)
-</details>
-
----
-
-### **` °¤ BOXMINEWORLD ¤°`**
-
-<a href="https://boxmineworld.com">
-  <img width="125px" src="https://i.imgur.com/allAyd4.png"/>
-</a>
-
-<details>
- <summary><b> ❒ Servidor BoxMineWorld</b></summary>
-
-* Pagina Oficial: [`Boxmineworld`](https://boxmineworld.com)
-* Tutorial - Crear cuenta en la Dashboard: [`Dashboard`](https://www.youtube.com/watch?v=ZAwBLuNmIlI)
-* Dashboard: [`Dash`](https://dash.boxmineworld.com)
-* Panel: [`Aquí`](https://panel.boxmineworld.com)
-* Dudas sobre el Host: [`Discord`](https://discord.gg/84qsr4v)
-* Canal de WhatsApp: [`Aquí`](https://whatsapp.com/channel/0029Va71C1q2UPBOICnxu83r)
-
-</details>
-
----
-
-### **`✦ AKIRAX ✦`**
-
-<a
-href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1748713078525.jpeg" height="125px"></a>
-
-<details>
-<summary><b> ❒ Servidor Akirax</b></summary>
-
-* Dashboard : [`Dash`](https://home.akirax.net)
-* Panel : [`Panel`](https://console.akirax.net)
-* Canal de WhatsApp : [`Aqui`](https://whatsapp.com/channel/0029VbBCchVDJ6H6prNYfz2z)
-* Grupo Oficial : [`Aquí`](https://chat.whatsapp.com/JxSZTFJN9J20TnsH7KsKTA)
-
 </details>
 
 ---

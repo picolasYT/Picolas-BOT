@@ -1,20 +1,10 @@
 import fetch from 'node-fetch'
 
-// ===== PREVENIR VARIABLES UNDEFINED =====
-let botname   = global.botname   || "PicolasBOT"
-let vs        = global.vs        || "1.0.0"
-let libreria  = global.libreria  || "Baileys-MD"
-let textbot   = global.textbot   || "Bot Oficial"
-let redes     = global.redes     || "https://github.com/picolasYT"
-let banner    = global.banner    || "https://files.catbox.moe/n7r3na.png"
-let channelRD = global.channelRD || { id: null, name: botname }
-
 let handler = async (m, { conn, args }) => {
 let mentionedJid = await m.mentionedJid
 let userId = mentionedJid && mentionedJid[0] ? mentionedJid[0] : m.sender
-let totalreg = Object.keys(global.db?.data?.users || {}).length
-let totalCommands = Object.values(global.plugins || {}).filter(v => v.help && v.tags).length
-
+let totalreg = Object.keys(global.db.data.users).length
+let totalCommands = Object.values(global.plugins).filter((v) => v.help && v.tags).length
 
 let txt = `̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮
 ︶•︶°︶•︶°︶•︶°︶•︶°︶•︶°︶

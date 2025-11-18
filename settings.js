@@ -33,8 +33,7 @@ global.etiqueta = "☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆"
 global.currency = "¥enes"
 global.banner = "https://files.catbox.moe/vpvbkb.png"
 global.icono = "https://files.catbox.moe/n7r3na.png"
-global.catalogo = fs.readFileSync('./lib/catalogo.png')
-
+global.catalogo = fs.readFileSync('./lib/catalogo.png') 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.group = "https://chat.whatsapp.com/HaKf6ezcwdbGzmH782eBal"

@@ -1,6 +1,6 @@
-<h1 align="center">☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆</h1>
+<h1 align="center">✦ Yυƙι Sυσυ ✦</h1>
 
-<img src= "https://files.catbox.moe/n7r3na.png">
+<img src= "https://files.catbox.moe/om9jai.jpg">
 </p>
 
 ### *`❕️ Información importante`*
@@ -40,7 +40,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/picolasYT/Picolas-BOT && cd Picolas-BOT
+git clone https://github.com/The-King-Destroy/YukiBot-MD && cd YukiBot-MD
 ```
 ```bash
 yarn install
@@ -82,24 +82,24 @@ pm2 start index
 ### En caso de detenerse
 > _Si despues que ya instalastes el bot y termux te salta en blanco, se fue tu internet o reiniciaste tu celular, solo realizaras estos pasos:_
 ```bash
-cd && cd Picolas-BOT && npm start
+cd && cd YukiBot-MD && npm start
 ```
 ----
 ### Obtener nuevo código QR 
-> *Detén el bot, haz click en el símbolo (ctrl) [default=z] usar la letra "z" + "ENTER" hasta que salga algo verdes similar a: `Picolas-BOT $`*
+> *Detén el bot, haz click en el símbolo (ctrl) [default=z] usar la letra "z" + "ENTER" hasta que salga algo verdes similar a: `YukiBot-MD $`*
 > **Escribe los siguientes comandos uno x uno :**
 ```bash 
-cd && cd Picolas-BOT && rm -rf sessions/Principal && npm run qr
+cd && cd YukiBot-MD && rm -rf sessions/Principal && npm run qr
 ```
 ----
 ### Obtener nuevo código de teléfono 
 ```bash 
-cd && cd Picolas-BOT && rm -rf sessions/Principal && npm run code
+cd && cd YukiBot-MD && rm -rf sessions/Principal && npm run code
 ```
 </details>
 
 <details>
-<summary><b>❀ Actualizar Picolas-BOT</b></summary>
+<summary><b>❀ Actualizar YukiBot-MD</b></summary>
 
 > **Utiliza esta opción únicamente si deseas actualizar a la última versión de YukiBot. Hemos implementado un método ingenioso mediante comandos para realizar la actualización, pero ten en cuenta que al usarla se eliminarán todos los archivos de la versión actual y se reemplazarán con los de la nueva versión. Solo se conservará la base de datos, por lo que será necesario volver a vincular el Bot.**  
 
@@ -117,6 +117,61 @@ cd && cd YukiBot-MD && nano settings.js
 ```
 #### Para que no pierda su progreso en YukiBot, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 > *Estos comandos solo funcionan para TERMUX, REPLIT, LINUX*
+</details>
+
+---
+### **`➮ Enlaces útiles`**
+
+<details>
+<summary><b> 🜸 Enlaces Oficiales </b></summary>
+
+ * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029Vb64nWqLo4hb8cuxe23n)
+* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/HaKf6ezcwdbGzmH782eBal)
+* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/BgIcqDiiTEmL5ChFpq76y0?mode=ems_copy_t)
+</details>
+
+<details>
+<summary><b> ✰ Contáctos</b></summary>
+
+* WhatsApp: [`Aquí`](https://wa.me/522202410659)
+* Correo: [`Aquí`](thekingdestroy507@gmail.com)
+</details>
+
+---
+
+### **` °¤ BOXMINEWORLD ¤°`**
+
+<a href="https://boxmineworld.com">
+  <img width="125px" src="https://i.imgur.com/allAyd4.png"/>
+</a>
+
+<details>
+ <summary><b> ❒ Servidor BoxMineWorld</b></summary>
+
+* Pagina Oficial: [`Boxmineworld`](https://boxmineworld.com)
+* Tutorial - Crear cuenta en la Dashboard: [`Dashboard`](https://www.youtube.com/watch?v=ZAwBLuNmIlI)
+* Dashboard: [`Dash`](https://dash.boxmineworld.com)
+* Panel: [`Aquí`](https://panel.boxmineworld.com)
+* Dudas sobre el Host: [`Discord`](https://discord.gg/84qsr4v)
+* Canal de WhatsApp: [`Aquí`](https://whatsapp.com/channel/0029Va71C1q2UPBOICnxu83r)
+
+</details>
+
+---
+
+### **`✦ AKIRAX ✦`**
+
+<a
+href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1748713078525.jpeg" height="125px"></a>
+
+<details>
+<summary><b> ❒ Servidor Akirax</b></summary>
+
+* Dashboard : [`Dash`](https://home.akirax.net)
+* Panel : [`Panel`](https://console.akirax.net)
+* Canal de WhatsApp : [`Aqui`](https://whatsapp.com/channel/0029VbBCchVDJ6H6prNYfz2z)
+* Grupo Oficial : [`Aquí`](https://chat.whatsapp.com/JxSZTFJN9J20TnsH7KsKTA)
+
 </details>
 
 ---

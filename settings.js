@@ -11,8 +11,8 @@ global.botNumber = "" //Ejemplo: 573218138672
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.owner = ["5492994587598", "542994587598"]
-global.suittag = ["542994587598"] 
+global.owner = ["573196588149", "5492916450307", "5216671548329"]
+global.suittag = ["573196588149"] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -25,15 +25,16 @@ global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.botname = "☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆"
-global.textbot = "Picolas, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆"
-global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆"
-global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆"
-global.etiqueta = "☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆"
+global.botname = "ᥡᥙkі sᥙ᥆ᥙ"
+global.textbot = "ᥡᥙkі, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ"
+global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"
+global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"
+global.etiqueta = "ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"
 global.currency = "¥enes"
-global.banner = "https://files.catbox.moe/vpvbkb.png"
-global.icono = "https://files.catbox.moe/n7r3na.png"
-global.catalogo = fs.readFileSync('./lib/catalogo.png') 
+global.banner = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678744381.jpeg"
+global.icono = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg"
+global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
+
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.group = "https://chat.whatsapp.com/HaKf6ezcwdbGzmH782eBal"

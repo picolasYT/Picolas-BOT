@@ -25,11 +25,11 @@ global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.botname = "☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆"
-global.textbot = "Picolas, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆"
-global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆"
-global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆"
-global.etiqueta = "☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆"
+global.botname = "ᥡᥙkі sᥙ᥆ᥙ"
+global.textbot = "ᥡᥙkі, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ"
+global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"
+global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"
+global.etiqueta = "ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"
 global.currency = "¥enes"
 global.banner = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678744381.jpeg"
 global.icono = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg"

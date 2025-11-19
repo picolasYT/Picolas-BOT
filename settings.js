@@ -31,8 +31,8 @@ global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜
 global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆"
 global.etiqueta = "☆彡 {𝙿𝚒𝚌𝚘𝚕𝚊𝚜-𝙱𝙾𝚃} ミ☆"
 global.currency = "¥enes"
-global.banner = "https://files.catbox.moe/vpvbkb.png"
-global.icono = "https://files.catbox.moe/n7r3na.png"
+global.banner = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678744381.jpeg"
+global.icono = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg"
 global.catalogo = fs.readFileSync('./lib/catalogo.png')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
